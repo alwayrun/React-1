@@ -3,6 +3,7 @@ React Resources
 
 ## React 
 
+- [The Future of Web Development - React, Falcor, and ES6](http://engineering.widen.com/blog/future-of-the-web-react-falcor/) by @Ray Nicholus
 
 ## React Native
 
