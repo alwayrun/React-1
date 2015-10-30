@@ -7,6 +7,7 @@ React Resources
 - [React.js Tutorial Pt 2: Building React Applications with Gulp and Browserify.](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/) by [@Tyler](http://tylermcginnis.com/author/Tyler/)
 - [React.js Tutorial Pt 3: Architecting React.js Apps with Flux.](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/) by [@Tyler](http://tylermcginnis.com/author/Tyler/)
 - [The Future of Web Development - React, Falcor, and ES6](http://engineering.widen.com/blog/future-of-the-web-react-falcor/) by @Ray Nicholus
+- [How to communicate between React components](http://ctheu.com/2015/02/12/how-to-communicate-between-react-components/#child_to_parent) by [@ChtefiD](https://twitter.com/ChtefiD)
 
 ## React Native
 
