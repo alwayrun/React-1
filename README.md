@@ -3,6 +3,7 @@ React Resources
 
 ## React 
 
+- [Using React with Webpack Tutorial](https://blog.risingstack.com/using-react-with-webpack-tutorial/) by [@risingstack](https://twitter.com/risingstack)
 - [React.js Tutorial Pt 1: A Comprehensive Guide to Building Apps with React.js](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) by [@Tyler](http://tylermcginnis.com/author/Tyler/)
 - [React.js Tutorial Pt 2: Building React Applications with Gulp and Browserify.](http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/) by [@Tyler](http://tylermcginnis.com/author/Tyler/)
 - [React.js Tutorial Pt 3: Architecting React.js Apps with Flux.](http://tylermcginnis.com/reactjs-tutorial-pt-3-architecting-react-js-apps-with-flux/) by [@Tyler](http://tylermcginnis.com/author/Tyler/)
